@@ -3,7 +3,7 @@ package me.lullaby.study.algorithm.level0.problem1
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
-class Problem1 {
+class Problem {
 
     @Test
     internal fun case1() {
@@ -46,9 +46,6 @@ class Solution {
 }
 
 // wyeoo 예외 케이스
-
-
-
 
 val _1 = "aya"
 val _2 = "ye"
