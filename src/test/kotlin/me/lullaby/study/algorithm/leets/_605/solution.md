@@ -1,0 +1,5 @@
+- 최소 길이가 3이고 등차 혹은 등비 수열만 존재하므로 등차 수열인지 검사 시도
+  - element[2] - element[1] == element[1] - element[0]이면 등차 수열
+    - 마지막 원소 + element[2] - element[1]
+  - 아니면 등비수열
+    - 마지막 원소 * (element[2] / element[1])
